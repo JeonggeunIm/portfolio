@@ -76,6 +76,29 @@
   다수의 애니메이션이 적용된 무한 슬라이드<br>
   (연속 이벤트(click) 방지를 위한 'transitionend' 이벤트와 'setTimeout'을 이용한 쓰로틀링 기법 사용)
   
+  **무한 슬라이드 핵심 함수**
+  ```javascript
+function resetList(setting){
+      var listSet = $.extend({
+        'resetClass': '',
+        'ulBeforeReset': 0,
+        'resetUl': 0,
+      }, setting);
+      
+      set.selector.find('ul.slide').css({'transition': 'left 0.4s', 'left': listSet.ulBeforeReset}).one('transitionend', function() {
+        set.selector.find('ul.slide li').not('.' + listSet.resetClass).remove();
+        set.selector.find('ul.slide li').removeClass(listSet.resetClass);
+        set.selector.find('ul.slide li').each(function(i) {
+          $(this).css({'left': (i * 100) + '%', 'transition': 'none'});
+        });
+        set.selector.find('ul.slide').css({'left': listSet.resetUl, 'transition': 'none'});
+        set.isAnimationOn = false;
+      });
+
+      showIndicator(set.slideNow);
+    }
+```
+  
   <br>
   
 - **list의 나열 형태로 마크업** <br>
