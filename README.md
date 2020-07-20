@@ -14,6 +14,7 @@
 
 - Size : PC / Tablet / Mobile (반응형 제작)
 <br>
+
  >### 주요 작업
 ```markdown
 - 3개의 분기점을 통한 반응형 제작
@@ -51,6 +52,7 @@
 
 - Size : PC
 <br>
+
  >### 주요 작업
 ```markdown
 - 좀 더 심화된 형태의 슬라이드 자체 구현
@@ -69,7 +71,7 @@
   1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
   2. ScrollTop의 값에 따른 텍스트 전환 효과
   
-  [Common]
+  Common
   스크롤 위치에 따른 header, quick menu, top button 변화
 ```
 
