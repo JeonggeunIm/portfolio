@@ -13,8 +13,8 @@
  / [Sub Page2](https://jeonggeunim.github.io/portfolio/risom/have9Forest.html)
 
 - Size : PC / Tablet / Mobile (반응형 제작)
-
- ### 주요 작업
+<br>
+ >### 주요 작업
 ```markdown
 - 3개의 분기점을 통한 반응형 제작
 
@@ -26,7 +26,7 @@
 - 모바일/태블릿 화면에서의 gnb의 디자인 변화 (햄버거 바 활용)
 ```
 
- ### 작업 후 배운 점
+ >### 작업 후 배운 점
 ```markdown
 - 의미와 구조에 맞는 태그의 사용법
 
@@ -35,7 +35,7 @@
 - 가장 기본이 되는 fade효과 슬라이드의 기본 원리
 ```
 
- ### 아쉬운 점
+ >### 아쉬운 점
 ```markdown
 - js, css 파일을 페이지 별로 분리한 점
 
@@ -50,7 +50,7 @@
  / [Sub Page2](https://jeonggeunim.github.io/portfolio/allFresh/brandstory.html)
 
 - Size : PC
-
+<br>
  >### 주요 작업
 ```markdown
 - 좀 더 심화된 형태의 슬라이드 자체 구현
@@ -73,7 +73,7 @@
   스크롤 위치에 따른 header, quick menu, top button 변화
 ```
 
- > 작업 후 배운 점
+ >### 작업 후 배운 점
 ```markdown
 - 쓰로틀링 기법을 활용한 이벤트 제어
 
@@ -82,7 +82,7 @@
 - 이벤트 처리에 대한 논리적 순서
 ```
 
- ### 아쉬운 점
+ >### 아쉬운 점
 ```markdown
 - 스크롤 이벤트의 효율성을 크게 높이지 못한 점
 ```
