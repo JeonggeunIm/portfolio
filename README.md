@@ -107,6 +107,8 @@
 
 - 재귀적 함수 호출과 setTimeout를 활용한 슬라이드 AutoPlay 기능
 
+- svg의 circle태그를 활용한 Progress Bar 구현 (메인 슬라이드)
+
 - 스크롤 이벤트 
   [우측 영역]
   1. ScrollTop 값에 따른 header 영역의 변화
