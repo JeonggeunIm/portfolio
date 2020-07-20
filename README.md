@@ -1,4 +1,4 @@
-# 웹 포트폴리오
+# 웹 포트폴리오 ( Jeonggeun Im )
 
 -**적용 스킬** : HTML / CSS / Javascript / JQuery
 
@@ -13,7 +13,6 @@
  / [Sub Page2](https://jeonggeunim.github.io/portfolio/risom/have9Forest.html)
 
 - Size : PC / Tablet / Mobile (반응형 제작)
-<br>
 
 ### 주요 작업
 ```markdown
@@ -26,7 +25,6 @@
 
 - 모바일/태블릿 화면에서의 gnb의 디자인 변화 (햄버거 바 활용)
 ```
-<br>
 
 ### 작업 후 배운 점
 ```markdown
@@ -36,7 +34,6 @@
 
 - 가장 기본이 되는 fade효과 슬라이드의 기본 원리
 ```
-<br>
 
 ### 아쉬운 점
 ```markdown
