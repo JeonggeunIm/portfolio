@@ -2,7 +2,7 @@
 
 -**적용 스킬** : HTML / CSS / Javascript / JQuery
 
--**소요 기간** : 2달
+-**총 소요 기간** : 1달 반
 
 -**HTML5 / CSS3 문법을 준수 & 시멘틱 태그 활용 & Clone Coding**
 <br><br>
@@ -60,10 +60,10 @@
 
  >### 주요 작업
 - **좀 더 심화된 형태의 슬라이드 자체 구현**<br>
-  [Main Page]<br>
+  - [Main Page]<br>
   fade 슬라이드 & 두 번째 section의 무한 Moving 슬라이드<br>
   
-  [Sub Page2]<br>
+  - [Sub Page2]<br>
   다수의 애니메이션이 적용된 무한 슬라이드
   (연속 이벤트(click) 방지를 위한 'transitionend' 이벤트와 'setTimeout'을 이용한 쓰로틀링 기법 사용)
   
@@ -71,12 +71,12 @@
   [Sub Page1]<br>
 
 - **스크롤 이벤트**<br>
-    [Sub Page2]<br>
-    1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
-    2. ScrollTop 값에 따른 텍스트 전환 효과
+  [Sub Page2]<br>
+  1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
+  2. ScrollTop 값에 따른 텍스트 전환 효과
 
-    [Common]<br>
-    스크롤 위치에 따른 header, quick menu, top button 변화
+  [Common]<br>
+  스크롤 위치에 따른 header, quick menu, top button 변화
 
 <br>
 
