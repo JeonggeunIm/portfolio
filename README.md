@@ -77,8 +77,8 @@
   (연속 이벤트(click) 방지를 위한 'transitionend' 이벤트와 'setTimeout'을 이용한 쓰로틀링 기법 사용)
   
   **무한 슬라이드 핵심 함수**
-  ```javascript
-function resetList(setting){
+```javascript 
+    function resetList(setting){
       var listSet = $.extend({
         'resetClass': '',
         'ulBeforeReset': 0,
