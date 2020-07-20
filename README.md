@@ -45,9 +45,9 @@
 ```
 <br><br>
 ## 2. 올프레쉬 (두 번째 포트폴리오)
-- 페이지 링크 : [Main Page](https://jeonggeunim.github.io/portfolio/allfresh/index.html)
- / [Sub Page1](https://jeonggeunim.github.io/portfolio/allfresh/present.html)
- / [Sub Page2](https://jeonggeunim.github.io/portfolio/risom/brandstory.html)
+- 페이지 링크 : [Main Page](https://jeonggeunim.github.io/portfolio/allFresh/index.html)
+ / [Sub Page1](https://jeonggeunim.github.io/portfolio/allFresh/present.html)
+ / [Sub Page2](https://jeonggeunim.github.io/portfolio/allFresh/brandstory.html)
 
 - Size : PC
 
