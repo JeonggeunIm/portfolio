@@ -71,12 +71,12 @@
   [Sub Page1]<br>
 
 - **스크롤 이벤트**<br>
-  [Sub Page2]<br>
-  1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
-  2. ScrollTop의 값에 따른 텍스트 전환 효과
-  
-  [Common]<br>
-  스크롤 위치에 따른 header, quick menu, top button 변화
+    [Sub Page2]<br>
+    1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
+    2. ScrollTop 값에 따른 텍스트 전환 효과
+
+    [Common]<br>
+    스크롤 위치에 따른 header, quick menu, top button 변화
 
 <br>
 
