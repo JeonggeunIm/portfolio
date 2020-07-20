@@ -1,10 +1,12 @@
 # 웹 포트폴리오 ( JeonggeunIm )
 
--**적용 스킬** : HTML / CSS / Javascript / JQuery
+- **적용 스킬** : HTML / CSS / Javascript / JQuery
 
--**총 소요 기간** : 1달 반
+- **총 소요 기간** : 1달 반
 
--**HTML5 / CSS3 문법을 준수 & 시멘틱 태그 활용 & Clone Coding**
+- **HTML5 / CSS3 문법을 준수 & 시멘틱 태그 활용 & Clone Coding**
+
+### **해당 포트폴리오는 전부 학습한 내용을 응용하여 직접 제작한 포트폴리오입니다. 플러그인 등 일절 사용하지 않았습니다. 참고 부탁드립니다.**
 ***
 <br><br><br>
 ## 1. 포레스트 리솜 (첫 번째 포트폴리오)
