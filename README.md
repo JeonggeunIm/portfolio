@@ -54,22 +54,22 @@
  >### 주요 작업
 ```markdown
 - 좀 더 심화된 형태의 슬라이드 자체 구현
-  **Main Page**
+  (Main Page)
   fade 슬라이드 & 두 번째 section의 무한 Moving 슬라이드
   
-  **Sub Page2**
+  (Sub Page2)
   다수의 애니메이션이 적용된 무한 슬라이드
   (연속 이벤트(click) 방지를 위한 'transitionend' 이벤트와 'setTimeout'을 이용한 쓰로틀링 기법 사용)
   
 - list의 나열 형태로 마크업 
-  **Sub Page1**
+  (Sub Page1)
 
 - 스크롤에 이벤트 
-  **Sub Page2**
+  [Sub Page2]
   1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
   2. ScrollTop의 값에 따른 텍스트 전환 효과
   
-  **Common**
+  [Common]
   스크롤 위치에 따른 header, quick menu, top button 변화
 ```
 
