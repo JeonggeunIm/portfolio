@@ -105,19 +105,19 @@
   1. 우측 영역 진입 시 서브 슬라이드 작동 & 메인 슬라이드 정지
   2. 우측 영역 진입 시에만 스크롤 작동
 
-- 재귀적 함수 호출과 setTimeout를 활용한 슬라이드 AutoPlay 기능
+- 재귀적 함수 호출과 setTimeout를 활용한 슬라이드 'AutoPlay' 기능
 
-- svg의 circle태그를 활용한 Progress Bar 구현 (메인 슬라이드)
+- svg의 circle태그를 활용한 'Progress Bar' 구현 (메인 슬라이드)
 
 - 스크롤 이벤트 
   [우측 영역]
-  1. ScrollTop 값에 따른 header 영역의 변화
+  ScrollTop 값에 따른 header 영역의 변화
 
 - Mouseenter 이벤트
   [메인 영역]
   3depth의 gnb를 구현하기 위해 사용한 position 속성으로 인해 높이 값을 가져오지 못하는 문제 발생 => Jquery의 Height() 메소드를 사용하여 검정색 배경의 높이에 차이를 적용함
 
-- 웹 접근성 중 운용의 용이성을 준수하고자 키보드의 작동 고려
+- 웹 접근성 중 '운용의 용이성'을 준수하고자 키보드로의 동작 고려
   [메인 영역]
   Tab키를 통한 gnb, 사이트맵 접근, 슬라이드 전환 등 가능
 ```
