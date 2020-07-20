@@ -72,8 +72,8 @@
 
 - **스크롤 이벤트**<br>
   - [Sub Page2]<br>
-  1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
-  2. ScrollTop 값에 따른 텍스트 전환 효과
+   1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
+   2. ScrollTop 값에 따른 텍스트 전환 효과 <br>
 
   - [Common]<br>
   스크롤 위치에 따른 header, quick menu, top button 변화
@@ -109,10 +109,10 @@
   
 - **독특한 문서 구조**<br>
   - 우측의 'Paradise Now' 버튼 클릭시 해당 영역으로 문서가 전체 이동되는 형태
-  1. 우측 영역 진입 시 서브 슬라이드 작동 & 메인 슬라이드 정지
-  2. 우측 영역 진입 시에만 스크롤 작동
+   1. 우측 영역 진입 시 서브 슬라이드 작동 & 메인 슬라이드 정지
+   2. 우측 영역 진입 시에만 스크롤 작동<br>
 
-- **재귀적 함수 호출과 setTimeout를 활용한 슬라이드 'AutoPlay' 기능**
+- **재귀적 함수 호출과 setTimeout를 활용한 슬라이드 'AutoPlay' 기능**<br>
 
 - **svg의 circle태그를 활용한 'Progress Bar' 구현**<br>
   - [메인 영역]
