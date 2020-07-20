@@ -19,13 +19,13 @@
 - **3개의 분기점을 통한 반응형 제작**
 
 - **반응형에 따른 다른 이벤트 처리**<br>
-  => window의 width값을 조건으로 함
+  - window의 width값을 조건으로 함
 
 - **Main-visual에 Fade 전환 효과의 슬라이드 적용**<br>
-  => 모바일 화면에선 스와이프로 전환 가능
+  - 모바일 화면에선 스와이프로 전환 가능
 
 - **모바일/태블릿 화면에서의 gnb의 디자인 변화**<br>
-  => 햄버거 메뉴 활용
+  - 햄버거 메뉴 활용
   
 <br>
 
@@ -68,14 +68,14 @@
   (연속 이벤트(click) 방지를 위한 'transitionend' 이벤트와 'setTimeout'을 이용한 쓰로틀링 기법 사용)
   
 - **list의 나열 형태로 마크업** <br>
-  [Sub Page1]<br>
+  - [Sub Page1]<br>
 
 - **스크롤 이벤트**<br>
-  [Sub Page2]<br>
+  - [Sub Page2]<br>
   1. ScrollTop 값에 따른 opacity와 scale값의 변화를 주어 비주얼 전환 효과
   2. ScrollTop 값에 따른 텍스트 전환 효과
 
-  [Common]<br>
+  - [Common]<br>
   스크롤 위치에 따른 header, quick menu, top button 변화
 
 <br>
@@ -105,28 +105,28 @@
  >### 주요 작업
 
 - **화려한 전환 효과의 슬라이드**<br>
-  (Main visual에 7개의 블럭을 나누어 순차적 전환 효과를 적용)
+  - Main visual에 7개의 블럭을 나누어 순차적 전환 효과를 적용
   
 - **독특한 문서 구조**<br>
-  우측의 'Paradise Now' 버튼 클릭시 해당 영역으로 문서가 전체 이동되는 형태
+  - 우측의 'Paradise Now' 버튼 클릭시 해당 영역으로 문서가 전체 이동되는 형태
   1. 우측 영역 진입 시 서브 슬라이드 작동 & 메인 슬라이드 정지
   2. 우측 영역 진입 시에만 스크롤 작동
 
 - **재귀적 함수 호출과 setTimeout를 활용한 슬라이드 'AutoPlay' 기능**
 
 - **svg의 circle태그를 활용한 'Progress Bar' 구현**<br>
-  [메인 영역]
+  - [메인 영역]
 
 - **스크롤 이벤트**<br> 
-  [우측 영역]<br>
+  - [우측 영역]<br>
   ScrollTop 값에 따른 header 영역의 변화
 
 - **Mouseenter 이벤트**<br>
-  [메인 영역]<br>
+  - [메인 영역]<br>
   3depth의 gnb를 구현하기 위해 사용한 position 속성으로 인해 높이 값을 가져오지 못하는 문제 발생 => Jquery의 Height() 메소드를 사용하여 검정색 배경의 높이에 차이를 적용함
 
 - **웹 접근성 중 '운용의 용이성'을 준수하고자 키보드로의 동작 고려**<br>
-  [메인 영역]<br>
+  - [메인 영역]<br>
   Tab키를 통한 gnb, 사이트맵 접근, 슬라이드 전환 등 가능
 
 <br>
