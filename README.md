@@ -5,7 +5,8 @@
 -**총 소요 기간** : 1달 반
 
 -**HTML5 / CSS3 문법을 준수 & 시멘틱 태그 활용 & Clone Coding**
-<br><br>
+***
+<br><br><br>
 ## 1. 포레스트 리솜 (첫 번째 포트폴리오)
 - **페이지 링크** : [Intro Page](https://jeonggeunim.github.io/portfolio/risom/index.html)
  / [Main Page](https://jeonggeunim.github.io/portfolio/risom/indexForest.html)
